@@ -1,0 +1,11 @@
+Event_ID,Event_Name,Rating,Feedback,Comments
+E101,Tech Expo,5,Excellent event! The AI speaker was amazing and super informative.,"Positive sentiment. Mention of ""AI speaker"" is a key highlight."
+E102,Career Workshop,4,Very useful. I got a lot of great advice.,"Positive sentiment. Good, general feedback."
+E103,Tech Expo,3,"It was okay, but the venue was a bit crowded.","Neutral sentiment. ""Crowded venue"" is a key pain point. Flag for follow-up."
+E104,Cultural Festival,5,Best event of the semester! So much fun.,"Highly positive. ""Best event"" is a strong indicator of success."
+E105,Career Workshop,2,The presenter was boring. Not what I expected at all.,"Negative sentiment. ""Boring presenter"" is a critical issue. Flag for review."
+E106,Tech Expo,5,Loved the hands-on demos!,"Highly positive. ""Hands-on demos"" is a successful feature. Note for future planning."
+E107,Cultural Festival,1,Terrible organization. Left early.,"Extremely negative. ""Terrible organization"" is a severe issue. Needs immediate attention."
+E108,Tech Expo,4,Really well-organized.,"Positive sentiment. Direct contradiction to E107, indicating a possible event-specific issue."
+E109,Career Workshop,4,Very useful and engaging.,"Positive sentiment. ""Useful"" and ""engaging"" are key words for success."
+E110,Cultural Festival,3,Could have been better. The music was too loud.,"Neutral sentiment. ""Music too loud"" is a specific and actionable point for improvement."
